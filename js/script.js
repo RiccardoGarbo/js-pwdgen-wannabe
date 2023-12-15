@@ -41,12 +41,13 @@ const element = document.getElementById('password')
 console.log(password)
 
 /*Svolgimento punto 13*/
-
 const passGen = firstName + surName + color + number
 console.log(passGen)
 
 /*Svolgimento punto 14*/
 element.innerText = passGen;
+
+
 
 
 
